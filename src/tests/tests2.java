@@ -1,6 +1,6 @@
-package tp3.tests;
+package tests;
 
-import tp3.pendu.*;
+import pendu.*;
 import java.util.Scanner;
 
 public class tests2 {

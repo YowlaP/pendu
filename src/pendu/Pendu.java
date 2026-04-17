@@ -1,4 +1,4 @@
-package tp3.pendu;
+package pendu;
 
 public class Pendu {
 
